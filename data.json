@@ -1,0 +1,37 @@
+{
+  "name": "Roq4",
+  "avatar": "https://pbs.twimg.com/profile_images/1534687350755889152/5q6xh0fr_400x400.jpg",
+  "title": "🏗️ Content Creator / Web3 Enthusiast",
+  "links": [
+    {
+      "title": "Website",
+      "href": "https://i.gifer.com/P4id.gif",
+      "image": "https://pbs.twimg.com/profile_images/1534687350755889152/5q6xh0fr_400x400.jpg"
+    },
+    {
+      "title": "Hashnode",
+      "href": "https://roq4.hashnode.dev/"
+    },
+    {
+      "title": "Substack",
+      "href": "https://substack.com/profile/106875915-roq4?utm_source=user-menu"
+    }
+  ],
+  "socials": [
+    {
+      "title": "Twitter",
+      "href": "https://twitter.com/Roq411",
+      "icon": "twitter-bird-2.svg"
+    },
+    {
+      "title": "Github",
+      "href": "https://github.com/Roq4",
+      "icon": "github-logo.svg"
+    },
+    {
+      "title": "Lens",
+      "href": "https://lenster.xyz/u/roq4_",
+      "icon": "lens-logo.svg"
+    }
+  ]
+}
