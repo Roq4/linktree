@@ -2,13 +2,17 @@
 
 https://roq4-linktree.vercel.app/
 
-First, copy the repo and download the packages: run the development server:
+First, copy the repo and download the packages:
+
 ```
 npm i
 ```
+
 Run the development server:
 
 ```bash
+
+
 npm run dev
 # or
 yarn dev
